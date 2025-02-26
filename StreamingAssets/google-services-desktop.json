@@ -1,0 +1,28 @@
+{
+    "project_info": {
+        "project_id": " puzzle-desktop",
+        "project_number": "878067121223",
+        "name": "Puzzle Desktop"
+    },
+  "client": [
+    {
+        "client_info": {
+            "mobilesdk_app_id": "1:878067121223:web:64d17e5e51fcde9ff44562",
+            "android_client_info": {
+                "package_name": "com.yourcompany.yourapp"
+            }
+        },
+      "api_key": [
+        {
+            "current_key": "AIzaSyDdqYWMTJq3xG2QFpBag6Xi2VP3tbsuLf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
